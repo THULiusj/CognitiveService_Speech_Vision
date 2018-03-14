@@ -27,7 +27,7 @@ OCR API识别和提取图片中的文字。一旦分析完成，API返回一个j
 
 支持旋转:
 
-<img src="images/vision-ocr.png" width="200" height="200" />
+<img src="images/vision-ocr.png" width="600" height="200" />
 
 图像质量要求：不能是
 - 模糊的图像
